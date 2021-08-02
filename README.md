@@ -10,7 +10,7 @@ In this script i used Cisco website as an example in your case if you use anothe
 1. To Getting index.html file type :- wget cisco.com  .
 2. Write your script and save it in the same directory .
 3. Then type :-  sudo sh YourScriptName.sh 
-4. 
+
 to execute the script .
 
 Example :- sudo sh ExtractingSubdomainsFindingHostsShowLiveHosts.sh 
